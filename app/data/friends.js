@@ -1,38 +1,38 @@
 
 var friendsData = [
     {
-      name: "Tommy Thompson",
-      photo: "https://avatars1.githubusercontent.com/u/17932981?v=3&s=466",
+      name: "Louise Belcher",
+      photo: "https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjt7Yyg27rcAhUizoMKHRcmBh8QjRx6BAgBEAU&url=https%3A%2F%2Fwww.dragoart.com%2Ftuts%2F7042%2F1%2F1%2Fhow-to-draw-louise-belcher.htm&psig=AOvVaw1WcbDFRri0a-Up0Ard8R7F&ust=1532623944949527",
       scores: [3, 4, 3, 3, 4, 4, 4, 1, 5, 3]
     },
     {
-      name: "Number 2",
-      photo:"https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/No_2_APTSWSM.jpg/200px-No_2_APTSWSM.jpg",
+      name: "Bob Belcher",
+      photo:"https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiM7tbH27rcAhUp4YMKHbJyB2gQjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fsubcultures%2Fbobs-burgers&psig=AOvVaw1WcbDFRri0a-Up0Ard8R7F&ust=1532623944949527",
       scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
     },
     {
-      name: "The One",
-      photo:"https://s-media-cache-ak0.pinimg.com/564x/dd/31/d2/dd31d2dd156204fcf9b6aa1c54455adb.jpg",
+      name: "Linda Belcher",
+      photo:"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7mcXk27rcAhXm6IMKHakEAmQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.hulu.com%2Fwatch%2F618868&psig=AOvVaw3c2cwWVHdEzqQSms8xj56P&ust=1532624075527651",
       scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
-      name: "Trinity",
-      photo:"http://vignette3.wikia.nocookie.net/matrix/images/6/67/Trinityfull.jpg/revision/latest?cb=20060803214449",
+      name: "Tina Belcher",
+      photo:"https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwi7yciR3LrcAhVkw4MKHWQ1Cc0QjRx6BAgBEAU&url=http%3A%2F%2Fbobs-burgers.wikia.com%2Fwiki%2FTina_Belcher&psig=AOvVaw0TM8EgoJsqXWywjH9TiARS&ust=1532624183418145",
       scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
     },
     {
-      name: "Dr. Evil",
-      photo:"https://at-cdn-s01.audiotool.com/2012/05/28/documents/ei368KjdlP5qy6gILDLtH9cEAf6H/0/cover256x256-b31436c2a9bc4645b1ad67bc09705cd7.jpg",
+      name: "Gene Belcher",
+      photo:"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5-Ye63LrcAhXFz4MKHcWmA4UQjRx6BAgBEAU&url=https%3A%2F%2Fwww.teepublic.com%2Ft-shirt%2F2060939-gene-belcher-inspired-santa-christmas&psig=AOvVaw2RUKuOZCwD-J5zs3Wc96uV&ust=1532624255405264",
       scores: [5, 4, 4, 4, 4, 3, 2, 1, 5, 5]
     },
     {
-      name: "Mia Wallace",
-      photo:"https://s-media-cache-ak0.pinimg.com/originals/a9/01/29/a9012982eea651ee31e21f4ad11fe96b.jpg",
+      name: "Bob Ross",
+      photo:"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwio-u763LrcAhWM4IMKHZLcCfcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F325244404332877864%2F&psig=AOvVaw1V2swPcRawqbnZPHH5f__P&ust=1532624385436133",
       scores: [2, 4, 2, 4, 2, 3, 4, 4, 4, 3]
     },
     {
-      name: "Princess Leia",
-      photo:"http://images.techtimes.com/data/images/full/168082/princess-leia-organa.jpg?w=600",
+      name: "Teddy Fromthebar",
+      photo:"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwikm_a_3brcAhUH0IMKHSIxDeUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.teepublic.com%2Fsticker%2F2443114-sea-me-now-teddy-boat-bob-belcher-friend&psig=AOvVaw0qt4JbnVCdpvJHMS1JsrVI&ust=1532624449143988",
       scores: [5, 4, 5, 4, 5, 3, 3, 3, 2, 4]
     }
   ];
